@@ -1,0 +1,3059 @@
+1.2
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.678s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1295.595764 J	(Average Power 46.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1105.532654 J	(Average Power 39.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.630585 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.418350 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.641s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1309.793335 J	(Average Power 47.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1101.364990 J	(Average Power 39.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.272568 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.901764 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.643s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1314.486450 J	(Average Power 47.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1102.251526 J	(Average Power 39.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.697174 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.145874 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.654s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1310.099609 J	(Average Power 47.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1107.748291 J	(Average Power 40.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.061996 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               200.053406 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.650s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1305.342529 J	(Average Power 47.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1108.758057 J	(Average Power 40.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.562347 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.594910 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.656s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1313.543030 J	(Average Power 47.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1102.413208 J	(Average Power 39.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.453644 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.180267 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.648s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1305.729553 J	(Average Power 47.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1109.479858 J	(Average Power 40.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.730423 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.678680 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.642s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1310.286621 J	(Average Power 47.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1107.411316 J	(Average Power 40.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.137039 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.540024 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.653s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1327.179565 J	(Average Power 48.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1094.456665 J	(Average Power 39.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               200.125153 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.276337 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.642s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1305.717346 J	(Average Power 47.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1114.705994 J	(Average Power 40.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.787064 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.579208 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+1.3
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.641s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1320.461914 J	(Average Power 47.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1109.899170 J	(Average Power 40.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               198.189621 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.861679 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 3.545s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0            160.614014 J	(Average Power 45.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1            139.168945 J	(Average Power 39.3W)
+rapl:::DRAM_ENERGY:PACKAGE0                24.366837 J	(Average Power 6.9W)
+rapl:::DRAM_ENERGY:PACKAGE1                24.679474 J	(Average Power 7.0W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.658s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1317.476990 J	(Average Power 47.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1118.391418 J	(Average Power 40.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               198.031799 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.919464 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.647s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1307.421326 J	(Average Power 47.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1121.815002 J	(Average Power 40.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.781204 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.518707 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.644s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1332.961243 J	(Average Power 48.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1094.566589 J	(Average Power 39.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               199.064804 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.224014 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.635s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1311.370728 J	(Average Power 47.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1120.228943 J	(Average Power 40.5W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.773987 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.218155 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.687s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1318.517517 J	(Average Power 47.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1119.315735 J	(Average Power 40.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.552521 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.399216 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.639s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1315.599854 J	(Average Power 47.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1113.550659 J	(Average Power 40.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.039398 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.620285 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.640s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1305.939392 J	(Average Power 47.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1122.932068 J	(Average Power 40.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.135925 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.398727 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.643s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1326.228821 J	(Average Power 48.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1107.798035 J	(Average Power 40.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.843399 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.419556 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+1.4
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.651s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1324.737915 J	(Average Power 47.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1122.991821 J	(Average Power 40.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.437454 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.966034 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.635s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1342.484314 J	(Average Power 48.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1100.009277 J	(Average Power 39.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.124741 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.918671 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.691s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1338.287537 J	(Average Power 48.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1113.749634 J	(Average Power 40.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.864243 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.994446 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.640s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1312.804504 J	(Average Power 47.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1133.956787 J	(Average Power 41.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               193.365814 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               201.398911 J	(Average Power 7.3W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.648s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1333.952454 J	(Average Power 48.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1117.064453 J	(Average Power 40.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.789307 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.498215 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.632s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1316.830627 J	(Average Power 47.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1127.807068 J	(Average Power 40.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.836914 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.139862 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.633s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1331.577942 J	(Average Power 48.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1107.394165 J	(Average Power 40.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.444550 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.718475 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.644s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1338.796204 J	(Average Power 48.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1109.182007 J	(Average Power 40.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.688950 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.267670 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.638s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1331.399719 J	(Average Power 48.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1109.787659 J	(Average Power 40.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.971207 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.737106 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.638s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1339.328918 J	(Average Power 48.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1109.780334 J	(Average Power 40.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.067398 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.146225 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+1.5
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.637s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1348.348328 J	(Average Power 48.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1098.744019 J	(Average Power 39.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.751160 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.903397 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.658s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1327.699524 J	(Average Power 48.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1130.018555 J	(Average Power 40.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.000732 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.402328 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.632s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1321.192932 J	(Average Power 47.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1136.123901 J	(Average Power 41.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.737930 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.903137 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.640s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1346.677917 J	(Average Power 48.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1108.336670 J	(Average Power 40.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.736130 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.712723 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.631s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1345.122192 J	(Average Power 48.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1112.015442 J	(Average Power 40.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               198.043396 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.435349 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.638s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1326.214600 J	(Average Power 48.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1133.769836 J	(Average Power 41.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.860413 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.538269 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.635s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1340.951660 J	(Average Power 48.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1099.117981 J	(Average Power 39.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.872238 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.439270 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.637s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1325.001587 J	(Average Power 47.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1135.365112 J	(Average Power 41.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.290802 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.954529 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.632s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1325.770203 J	(Average Power 48.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1131.878235 J	(Average Power 41.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.002365 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.766388 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.639s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1340.465454 J	(Average Power 48.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1120.036316 J	(Average Power 40.5W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.482742 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.851730 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+1.6
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.653s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1340.170288 J	(Average Power 48.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1120.138123 J	(Average Power 40.5W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.671570 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.530060 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.638s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1336.629150 J	(Average Power 48.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1127.266113 J	(Average Power 40.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.046600 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.773926 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.626s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1338.239075 J	(Average Power 48.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1121.977417 J	(Average Power 40.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.741959 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.955215 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.634s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1340.945862 J	(Average Power 48.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1121.299438 J	(Average Power 40.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.760513 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.167831 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.628s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1324.162598 J	(Average Power 47.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1136.802734 J	(Average Power 41.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               192.877686 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.869171 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.635s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1342.178894 J	(Average Power 48.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1110.344543 J	(Average Power 40.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               198.514694 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               194.355591 J	(Average Power 7.0W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.645s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1337.542725 J	(Average Power 48.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1127.247559 J	(Average Power 40.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.441101 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.474930 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.636s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1347.153748 J	(Average Power 48.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1119.368652 J	(Average Power 40.5W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.525436 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.717972 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.632s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1325.563293 J	(Average Power 48.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1137.356812 J	(Average Power 41.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               193.544998 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               200.044144 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.629s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1345.463196 J	(Average Power 48.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1117.072449 J	(Average Power 40.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.544327 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.362930 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+1.7
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.641s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1349.340088 J	(Average Power 48.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1123.518188 J	(Average Power 40.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.163483 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.009323 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.639s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1343.328125 J	(Average Power 48.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1130.083008 J	(Average Power 40.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.337875 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.838226 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.634s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1340.119812 J	(Average Power 48.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1127.554810 J	(Average Power 40.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.207245 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.507095 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.631s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1346.486511 J	(Average Power 48.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1125.972473 J	(Average Power 40.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.648621 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.461731 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.630s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1346.593445 J	(Average Power 48.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1124.235718 J	(Average Power 40.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.182266 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.661880 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.632s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1345.684021 J	(Average Power 48.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1122.534607 J	(Average Power 40.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.454788 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.789352 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.629s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1342.429138 J	(Average Power 48.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1131.631287 J	(Average Power 41.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.235382 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.835510 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.625s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1351.943726 J	(Average Power 48.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1112.321838 J	(Average Power 40.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.326157 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.575302 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.639s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1353.770569 J	(Average Power 49.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1120.177429 J	(Average Power 40.5W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.232742 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.384247 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.638s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1335.438416 J	(Average Power 48.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1136.895325 J	(Average Power 41.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.913452 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.990952 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+1.8
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.627s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1355.224548 J	(Average Power 49.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1112.273743 J	(Average Power 40.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.506836 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.693802 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.642s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1354.361755 J	(Average Power 49.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1126.325256 J	(Average Power 40.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.751205 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.556946 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.641s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1343.866577 J	(Average Power 48.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1142.627502 J	(Average Power 41.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               192.976913 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               200.425003 J	(Average Power 7.3W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.629s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1359.303650 J	(Average Power 49.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1122.682922 J	(Average Power 40.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.208313 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.977478 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.626s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1350.017151 J	(Average Power 48.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1128.497070 J	(Average Power 40.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.860825 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.518143 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.641s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1360.637756 J	(Average Power 49.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1108.326172 J	(Average Power 40.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.068695 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.443970 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.633s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1361.682556 J	(Average Power 49.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1115.765625 J	(Average Power 40.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               198.568008 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.304001 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.629s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1346.451843 J	(Average Power 48.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1134.275635 J	(Average Power 41.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.902176 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.767181 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.632s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1352.409485 J	(Average Power 48.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1123.274414 J	(Average Power 40.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.177902 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.767838 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.640s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1337.522705 J	(Average Power 48.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1143.614380 J	(Average Power 41.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               193.783737 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.853302 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+1.9
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.636s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1375.125916 J	(Average Power 49.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1137.521057 J	(Average Power 41.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.270294 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.402557 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.658s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1376.873535 J	(Average Power 49.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1144.264160 J	(Average Power 41.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.973724 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.913803 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.645s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1384.210876 J	(Average Power 50.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1131.196716 J	(Average Power 40.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.920181 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.103943 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.630s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1364.551208 J	(Average Power 49.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1151.163818 J	(Average Power 41.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.013992 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.802231 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.621s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1351.906311 J	(Average Power 48.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1164.139526 J	(Average Power 42.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               192.069611 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               200.301773 J	(Average Power 7.3W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.631s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1379.164246 J	(Average Power 49.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1133.571106 J	(Average Power 41.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.606094 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.357407 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.633s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1376.753296 J	(Average Power 49.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1134.228088 J	(Average Power 41.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.895493 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.511627 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.653s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1383.104858 J	(Average Power 50.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1126.649109 J	(Average Power 40.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.148590 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.245789 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.633s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1370.851746 J	(Average Power 49.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1140.973816 J	(Average Power 41.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.682129 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.874359 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.647s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1378.499512 J	(Average Power 49.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1141.776367 J	(Average Power 41.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.770523 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.283600 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+2.0
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.629s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1393.888000 J	(Average Power 50.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1132.536560 J	(Average Power 41.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               198.438080 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               194.993637 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.623s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1361.231873 J	(Average Power 49.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1161.265442 J	(Average Power 42.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               192.534668 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.918015 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.642s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1369.392639 J	(Average Power 49.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1153.419800 J	(Average Power 41.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               193.480026 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.031647 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.630s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1373.772278 J	(Average Power 49.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1153.493652 J	(Average Power 41.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.189697 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.769608 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 3.511s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0            170.519714 J	(Average Power 48.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1            141.350159 J	(Average Power 40.3W)
+rapl:::DRAM_ENERGY:PACKAGE0                24.090469 J	(Average Power 6.9W)
+rapl:::DRAM_ENERGY:PACKAGE1                24.467392 J	(Average Power 7.0W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.626s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1383.986816 J	(Average Power 50.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1137.831787 J	(Average Power 41.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.294540 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.417923 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.622s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1369.774902 J	(Average Power 49.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1148.853699 J	(Average Power 41.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.884155 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.382034 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.633s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1379.707458 J	(Average Power 49.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1143.444031 J	(Average Power 41.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.525787 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.268097 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.632s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1371.489380 J	(Average Power 49.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1159.812988 J	(Average Power 42.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.796768 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.031708 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.627s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1371.632507 J	(Average Power 49.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1154.827209 J	(Average Power 41.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.067322 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.733353 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+2.1
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.649s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1374.221252 J	(Average Power 49.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1165.735352 J	(Average Power 42.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.539062 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.798355 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 2.387s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0            111.597473 J	(Average Power 46.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1             97.749207 J	(Average Power 40.9W)
+rapl:::DRAM_ENERGY:PACKAGE0                15.480255 J	(Average Power 6.5W)
+rapl:::DRAM_ENERGY:PACKAGE1                17.251785 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.615s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1366.793640 J	(Average Power 49.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1171.362488 J	(Average Power 42.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               192.930557 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               200.246750 J	(Average Power 7.3W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.632s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1376.767151 J	(Average Power 49.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1159.218201 J	(Average Power 42.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.614807 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.968231 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.637s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1385.503235 J	(Average Power 50.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1143.729126 J	(Average Power 41.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.811386 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.902847 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.621s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1381.661316 J	(Average Power 50.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1150.004883 J	(Average Power 41.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.562683 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.183319 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.645s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1368.044983 J	(Average Power 49.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1163.273071 J	(Average Power 42.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.161926 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.507172 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.633s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1390.377258 J	(Average Power 50.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1134.935791 J	(Average Power 41.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.237717 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.319901 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.626s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1374.167358 J	(Average Power 49.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1154.289062 J	(Average Power 41.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.069061 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.357605 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.627s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1380.288635 J	(Average Power 50.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1153.506348 J	(Average Power 41.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.138351 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.180939 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+2.2
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.622s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1385.403564 J	(Average Power 50.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1151.953735 J	(Average Power 41.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.202042 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.187225 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.625s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1371.816895 J	(Average Power 49.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1163.472046 J	(Average Power 42.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.342209 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.503433 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.626s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1390.669922 J	(Average Power 50.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1148.583313 J	(Average Power 41.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.535553 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.223740 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.618s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1389.522766 J	(Average Power 50.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1144.286621 J	(Average Power 41.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.455719 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.470428 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.646s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1408.176575 J	(Average Power 50.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1123.725342 J	(Average Power 40.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               199.374741 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               193.598038 J	(Average Power 7.0W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.660s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1376.342651 J	(Average Power 49.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1162.573425 J	(Average Power 42.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.192749 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.683777 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.627s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1364.427673 J	(Average Power 49.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1175.987183 J	(Average Power 42.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               192.154892 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               200.112701 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.621s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1387.953796 J	(Average Power 50.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1156.761292 J	(Average Power 41.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.949661 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.052200 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.623s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1380.518372 J	(Average Power 50.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1160.395813 J	(Average Power 42.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               193.785660 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.518539 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.620s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1379.140686 J	(Average Power 49.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1162.343567 J	(Average Power 42.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.297562 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.179413 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+2.3
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.622s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1372.010071 J	(Average Power 49.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1181.163940 J	(Average Power 42.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.071320 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.207687 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.635s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1378.187988 J	(Average Power 49.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1172.312439 J	(Average Power 42.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.645996 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.735321 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.640s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1387.750732 J	(Average Power 50.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1167.065552 J	(Average Power 42.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.029892 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.923218 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.621s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1389.984009 J	(Average Power 50.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1165.365723 J	(Average Power 42.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.032486 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.496719 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.631s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1402.662598 J	(Average Power 50.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1143.337097 J	(Average Power 41.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               198.622375 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.398331 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.617s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1358.332764 J	(Average Power 49.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1196.563538 J	(Average Power 43.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               192.990417 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               200.462112 J	(Average Power 7.3W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.615s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1391.447327 J	(Average Power 50.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1157.218445 J	(Average Power 41.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.010574 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.467789 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.632s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1382.931885 J	(Average Power 50.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1163.816406 J	(Average Power 42.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.575623 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.173035 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.619s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1388.921448 J	(Average Power 50.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1165.534546 J	(Average Power 42.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.889709 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.191849 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.619s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1384.975281 J	(Average Power 50.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1165.148743 J	(Average Power 42.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.484161 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.528900 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+2.4
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.615s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1413.503784 J	(Average Power 51.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1231.612915 J	(Average Power 44.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.567429 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.235382 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.614s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1450.584961 J	(Average Power 52.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1203.997559 J	(Average Power 43.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.731720 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.799744 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.620s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1437.712463 J	(Average Power 52.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1219.148621 J	(Average Power 44.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.294357 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.532227 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.614s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1428.157104 J	(Average Power 51.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1237.268066 J	(Average Power 44.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.832565 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.085938 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.619s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1424.904663 J	(Average Power 51.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1243.309265 J	(Average Power 45.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.586151 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.839050 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.621s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1452.489258 J	(Average Power 52.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1213.508728 J	(Average Power 43.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.618622 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.492767 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.618s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1421.155273 J	(Average Power 51.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1240.587402 J	(Average Power 44.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.750137 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.635880 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.633s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1460.150879 J	(Average Power 52.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1212.596558 J	(Average Power 43.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.315628 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.305237 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.622s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1452.440979 J	(Average Power 52.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1213.261597 J	(Average Power 43.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.104736 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.827682 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.614s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1438.831116 J	(Average Power 52.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1229.142517 J	(Average Power 44.5W)
+rapl:::DRAM_ENERGY:PACKAGE0               193.979034 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.903656 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+2.5
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.621s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1434.164185 J	(Average Power 51.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1228.556946 J	(Average Power 44.5W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.299057 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.269577 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.624s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1457.687195 J	(Average Power 52.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1208.846619 J	(Average Power 43.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.613159 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.783661 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.645s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1441.176880 J	(Average Power 52.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1234.693604 J	(Average Power 44.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.386505 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.918732 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.623s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1451.057129 J	(Average Power 52.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1218.188049 J	(Average Power 44.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               193.923325 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.375687 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.622s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1438.663513 J	(Average Power 52.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1226.806030 J	(Average Power 44.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               193.931732 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.810059 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.632s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1446.086853 J	(Average Power 52.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1227.065430 J	(Average Power 44.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.184784 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.047028 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.620s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1441.571411 J	(Average Power 52.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1225.575684 J	(Average Power 44.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.809601 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.534805 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.618s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1453.158569 J	(Average Power 52.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1223.777649 J	(Average Power 44.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.045456 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.218338 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.617s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1460.517334 J	(Average Power 52.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1203.436462 J	(Average Power 43.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.677185 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.221039 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.626s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1437.681641 J	(Average Power 52.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1236.886475 J	(Average Power 44.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.967575 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.054962 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+2.6
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.611s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1432.778687 J	(Average Power 51.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1231.948608 J	(Average Power 44.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               193.212418 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.111389 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.620s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1427.016418 J	(Average Power 51.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1237.724915 J	(Average Power 44.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.991669 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.607605 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.616s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1452.437744 J	(Average Power 52.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1224.257202 J	(Average Power 44.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.852234 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.858490 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.612s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1437.816895 J	(Average Power 52.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1230.892395 J	(Average Power 44.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.442505 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.217758 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.623s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1446.630005 J	(Average Power 52.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1223.853821 J	(Average Power 44.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.798325 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.518967 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.619s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1433.273743 J	(Average Power 51.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1243.312073 J	(Average Power 45.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.253555 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.717896 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.621s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1459.296936 J	(Average Power 52.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1213.264771 J	(Average Power 43.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.626434 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.495911 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.611s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1430.902222 J	(Average Power 51.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1243.109192 J	(Average Power 45.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               192.494141 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               200.216095 J	(Average Power 7.3W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.623s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1442.051697 J	(Average Power 52.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1233.341919 J	(Average Power 44.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.264694 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.411469 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.629s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1415.333069 J	(Average Power 51.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1256.794617 J	(Average Power 45.5W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.707977 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.104248 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+2.7
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.615s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1462.492981 J	(Average Power 53.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1216.053528 J	(Average Power 44.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.993042 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               194.747604 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.622s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1412.977173 J	(Average Power 51.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1248.488342 J	(Average Power 45.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               192.286316 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.656036 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.623s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1439.475281 J	(Average Power 52.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1231.430786 J	(Average Power 44.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               193.112305 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.498474 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.618s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1442.358826 J	(Average Power 52.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1234.622559 J	(Average Power 44.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.376968 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.109222 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.616s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1434.450012 J	(Average Power 51.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1244.313049 J	(Average Power 45.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.111038 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.173813 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.629s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1448.963013 J	(Average Power 52.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1231.989624 J	(Average Power 44.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.395966 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.546967 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.622s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1463.923584 J	(Average Power 53.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1196.892395 J	(Average Power 43.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.112823 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.888672 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.620s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1433.530884 J	(Average Power 51.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1222.229370 J	(Average Power 44.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.114731 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.568573 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.626s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1417.700012 J	(Average Power 51.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1261.241150 J	(Average Power 45.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               192.457916 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               200.310181 J	(Average Power 7.3W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.626s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1435.114441 J	(Average Power 51.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1246.702026 J	(Average Power 45.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.457504 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.257980 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+2.8
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.647s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1452.409973 J	(Average Power 52.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1225.823730 J	(Average Power 44.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.293884 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.941315 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.642s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1441.145935 J	(Average Power 52.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1232.436279 J	(Average Power 44.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.877151 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.228470 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.535s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1436.708557 J	(Average Power 52.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1221.296509 J	(Average Power 44.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.753357 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.014236 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.645s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1459.800354 J	(Average Power 52.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1192.994019 J	(Average Power 43.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.536530 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.113647 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.746s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1460.745605 J	(Average Power 52.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1207.235718 J	(Average Power 43.5W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.952576 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.089172 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.708s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1453.181274 J	(Average Power 52.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1217.025940 J	(Average Power 43.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.960800 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.994034 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.718s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1448.402100 J	(Average Power 52.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1220.954163 J	(Average Power 44.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               197.453003 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.713806 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.639s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1475.940430 J	(Average Power 53.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1179.495300 J	(Average Power 42.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               198.312698 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.191513 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.799s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1446.176697 J	(Average Power 52.0W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1228.312378 J	(Average Power 44.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.436295 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.079529 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.758s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1449.265442 J	(Average Power 52.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1228.900330 J	(Average Power 44.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.865524 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.634079 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+2.9
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.675s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1453.101929 J	(Average Power 52.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1219.527710 J	(Average Power 44.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.808075 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               198.082977 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.669s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1450.116394 J	(Average Power 52.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1218.393738 J	(Average Power 44.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.013397 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.805939 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.639s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1453.709229 J	(Average Power 52.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1213.324097 J	(Average Power 43.9W)
+rapl:::DRAM_ENERGY:PACKAGE0               196.219681 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.165787 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.654s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1457.814270 J	(Average Power 52.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1215.488586 J	(Average Power 44.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.936890 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.363876 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.660s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1455.345825 J	(Average Power 52.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1217.638916 J	(Average Power 44.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.613464 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.526093 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.645s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1446.704102 J	(Average Power 52.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1219.433411 J	(Average Power 44.1W)
+rapl:::DRAM_ENERGY:PACKAGE0               194.366837 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.901306 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.655s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1448.368164 J	(Average Power 52.4W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1226.542358 J	(Average Power 44.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.218033 J	(Average Power 7.1W)
+rapl:::DRAM_ENERGY:PACKAGE1               197.013992 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 28.865s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1503.552185 J	(Average Power 52.1W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1260.113708 J	(Average Power 43.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               202.605560 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               204.016235 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 29.139s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1490.940796 J	(Average Power 51.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1245.678589 J	(Average Power 42.7W)
+rapl:::DRAM_ENERGY:PACKAGE0               201.660294 J	(Average Power 6.9W)
+rapl:::DRAM_ENERGY:PACKAGE1               205.639801 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 28.118s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1425.534058 J	(Average Power 50.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1251.642822 J	(Average Power 44.5W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.604797 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               199.971710 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+3.0
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 29.425s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1510.782166 J	(Average Power 51.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1248.410217 J	(Average Power 42.4W)
+rapl:::DRAM_ENERGY:PACKAGE0               204.531723 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               206.255173 J	(Average Power 7.0W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.906s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1436.830444 J	(Average Power 51.5W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1212.938843 J	(Average Power 43.5W)
+rapl:::DRAM_ENERGY:PACKAGE0               195.824524 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.413605 J	(Average Power 7.0W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.692s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1458.544861 J	(Average Power 52.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1211.906677 J	(Average Power 43.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               198.676392 J	(Average Power 7.2W)
+rapl:::DRAM_ENERGY:PACKAGE1               195.236923 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 29.956s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1506.950195 J	(Average Power 50.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1313.507202 J	(Average Power 43.8W)
+rapl:::DRAM_ENERGY:PACKAGE0               205.737091 J	(Average Power 6.9W)
+rapl:::DRAM_ENERGY:PACKAGE1               212.764053 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 34.010s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1688.204590 J	(Average Power 49.6W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1471.318054 J	(Average Power 43.3W)
+rapl:::DRAM_ENERGY:PACKAGE0               234.256012 J	(Average Power 6.9W)
+rapl:::DRAM_ENERGY:PACKAGE1               236.765671 J	(Average Power 7.0W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 32.297s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1606.742493 J	(Average Power 49.7W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1387.564087 J	(Average Power 43.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               223.003235 J	(Average Power 6.9W)
+rapl:::DRAM_ENERGY:PACKAGE1               224.858536 J	(Average Power 7.0W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 29.350s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1465.363037 J	(Average Power 49.9W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1307.182007 J	(Average Power 44.5W)
+rapl:::DRAM_ENERGY:PACKAGE0               200.042465 J	(Average Power 6.8W)
+rapl:::DRAM_ENERGY:PACKAGE1               210.909088 J	(Average Power 7.2W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 31.277s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1573.082031 J	(Average Power 50.3W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1351.588013 J	(Average Power 43.2W)
+rapl:::DRAM_ENERGY:PACKAGE0               215.022186 J	(Average Power 6.9W)
+rapl:::DRAM_ENERGY:PACKAGE1               220.240021 J	(Average Power 7.0W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 31.349s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1560.041931 J	(Average Power 49.8W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1367.359192 J	(Average Power 43.6W)
+rapl:::DRAM_ENERGY:PACKAGE0               214.250290 J	(Average Power 6.8W)
+rapl:::DRAM_ENERGY:PACKAGE1               221.775711 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
+Trying all RAPL events
+Found rapl component at cid 2
+
+Starting measurements...
+
+
+Stopping measurements, took 27.699s, gathering results...
+
+Scaled energy measurements:
+rapl:::PACKAGE_ENERGY:PACKAGE0           1419.202576 J	(Average Power 51.2W)
+rapl:::PACKAGE_ENERGY:PACKAGE1           1217.746887 J	(Average Power 44.0W)
+rapl:::DRAM_ENERGY:PACKAGE0               192.968185 J	(Average Power 7.0W)
+rapl:::DRAM_ENERGY:PACKAGE1               196.601776 J	(Average Power 7.1W)
+rapl:::PP0_ENERGY:PACKAGE0                  0.000000 J	(Average Power 0.0W)
+rapl:::PP0_ENERGY:PACKAGE1                  0.000000 J	(Average Power 0.0W)
+
